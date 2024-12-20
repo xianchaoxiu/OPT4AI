@@ -22,7 +22,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 
 
-### Network Pruning
+### Pruning
 
 - [2024] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations, IEEE TPAMI  [[Paper](https://ieeexplore.ieee.org/abstract/document/10643325/)] [[Python](https://github.com/hrcheng1066/awesome-pruning)]
 - [2024] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, arXiv [[Paper](https://arxiv.org/abs/2409.18850)]  [[Python](https://github.com/usamec/double_sparse)]
@@ -34,6 +34,10 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [2020] Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.html)] [[Python](https://github.com/ofsoundof/group_sparsity)]
 - [2017] Channel Pruning for Accelerating Very Deep Neural Networks, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html)]
 
+### Fine-Tuning
+- [2024] Adaptive Principal Components Allocation with the ℓ2,g-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models, arXiv [[Paper](https://arxiv.org/abs/2412.08592)] [[Python](https://github.com/jzheng20/Course projects.git)]
+
+- 
 
 ### Embodied Intelligence
 
