@@ -6,7 +6,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [Quantization](#Quantization)
 - [Fine-Tuning](#Fine-Tuning)
 - [Applications](#Applications)
-
+- [Resources](#Resources)
     
 <strong> Last Update: 2024/12/21 </strong>
 
@@ -114,3 +114,14 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 - [2024] OpenVLA: An Open-Source Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)]
 
+
+<a name="Resources" />
+
+### Resources
+
+- Chinese LLM [[Link](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)]
+- LLM Action [[Link](https://github.com/liguodongiot/llm-action)]
+- Efficient LLMs [[Link](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
+- LLM Prune [[Link](https://github.com/pprp/Awesome-LLM-Prune)]
+- Vision Mamba Models [[Link](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)]
+- Transformers [[Link](https://arxiv.org/abs/2406.09246)]
