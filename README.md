@@ -68,7 +68,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [2023] QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2310.08041)]
 - [2023] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models, ICML [[Paper](https://arxiv.org/abs/2211.10438)] [[Code](https://github.com/mit-han-lab/smoothquant)]
 - [2022] ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adf7fa39d65e2983d724ff7da57f00ac-Abstract-Conference.html)]
-- [2022] Compression of Generative Pre-trained Language Models via Quantization, <ACL[[Paper](https://aclanthology.org/2022.acl-long.331.pdf)]
+- [2022] Compression of Generative Pre-trained Language Models via Quantization, ACL [[Paper](https://aclanthology.org/2022.acl-long.331.pdf)]
 
 
 <a name="Fine-Tuning" />
