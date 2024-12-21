@@ -5,7 +5,9 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [Pruning](#Pruning)
 - [Quantization](#Quantization)
 - [Fine-Tuning](#Fine-Tuning)
-  
+- [Embodied Intelligence](#Embodied-Intelligence)
+
+    
 <strong> Last Update: 2024/12/21 </strong>
 
 
@@ -68,9 +70,11 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [2022] ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adf7fa39d65e2983d724ff7da57f00ac-Abstract-Conference.html)]
 - [2022] Compression of Generative Pre-trained Language Models via Quantization, <ACL[[Paper](https://aclanthology.org/2022.acl-long.331.pdf)]
 
-  
+
+<a name="Fine-Tuning" />
 
 ### Fine-Tuning
+
 - [2024] Adaptive Principal Components Allocation with the l2,g-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models, arXiv [[Paper](https://arxiv.org/abs/2412.08592)] [[Code](https://github.com/jzheng20/Course_projects.git)]
 - [2024] A Study of Optimizations for Fine-tuning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2406.02290)] 
 - [2024] Sparse Matrix in Large Language Model Fine-tuning, arXiv [[Paper](https://arxiv.org/pdf/2405.15525)] 
@@ -93,4 +97,12 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [2023] QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models, arXiv[[Paper](https://arxiv.org/abs/2309.14717 )] [[Code](https://github.com/yuhuixu1993/qa-lora)]
 - [2023] QLoRA: Efficient Finetuning of Quantized LLMs, NeurIPS [[Paper](https://arxiv.org/abs/2305.14314)] [[Code](https://github.com/artidoro/qlora)] 
 - [2022] LoRA: Low-Rank Adaptation of Large Language Models, ICLR [[Paper](https://openreview.net/forum?id=nZeVKeeFYf9)] [[Code](https://github.com/microsoft/LoRA)]
+
+
+
+<a name="Embodied-Intelligence" />
+
+### Embodied Intelligence
+
+- [2024] OpenVLA: An Open-Source Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)]
 
