@@ -35,7 +35,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [2017] Channel Pruning for Accelerating Very Deep Neural Networks, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html)]
 
 ### Fine-Tuning
-- [2024] Adaptive Principal Components Allocation with the ℓ2,g-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models, arXiv [[Paper](https://arxiv.org/abs/2412.08592)] [[Python](https://github.com/jzheng20/Course projects.git)]
+- [2024] Adaptive Principal Components Allocation with the ℓ2,g-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models, arXiv [[Paper](https://arxiv.org/abs/2412.08592)] [[Python](https://github.com/jzheng20/Course_projects.git)]
 
 - 
 
