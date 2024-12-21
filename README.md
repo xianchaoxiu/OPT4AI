@@ -5,7 +5,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [Pruning](#Pruning)
 - [Quantization](#Quantization)
 - [Fine-Tuning](#Fine-Tuning)
-- [Embodied Intelligence](#Embodied-Intelligence)
+- [Applications](#Applications)
 
     
 <strong> Last Update: 2024/12/21 </strong>
@@ -20,7 +20,6 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [2024] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations, IEEE TPAMI  [[Paper](https://ieeexplore.ieee.org/abstract/document/10643325/)] [[Code](https://github.com/hrcheng1066/awesome-pruning)]
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
 - [2024] A Survey of Low-Bit Large Language Models: Basics, Systems, and Algorithms, arXiv [[Paper](https://arxiv.org/abs/2409.16694)]
-- [2024] A Survey of Mamba, arXiv [[Paper](https://arxiv.org/abs/2408.01129)] 
 - [2024] Small Language Models: Survey, Measurements, and Insights, arXiv [[Paper](https://arxiv.org/abs/2409.15790)]
 - [2023] A Survey on Multimodal Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2306.13549)]    
 - [2022] Compression of Deep Learning Models for Text: A Survey, ACM TKDD [[Paper](https://dl.acm.org/doi/full/10.1145/3487045)]
@@ -99,10 +98,19 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [2022] LoRA: Low-Rank Adaptation of Large Language Models, ICLR [[Paper](https://openreview.net/forum?id=nZeVKeeFYf9)] [[Code](https://github.com/microsoft/LoRA)]
 
 
+<a name="Applications" />
 
-<a name="Embodied-Intelligence" />
+### Applications
 
-### Embodied Intelligence
+
+#### Mamba
+- [2024] A Survey of Mamba, arXiv [[Paper](https://arxiv.org/abs/2408.01129)]
+- [2024] Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, arXiv [[Paper](https://arxiv.org/abs/2401.09417)]
+- [2023] Mamba: Linear-Time Sequence Modeling with Selective State Spaces, arXiv [[Paper](https://arxiv.org/abs/2312.00752)] 
+
+
+
+#### Embodied Intelligence
 
 - [2024] OpenVLA: An Open-Source Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)]
 
