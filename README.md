@@ -44,7 +44,6 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [2023] LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation, ICML [[Paper](https://proceedings.mlr.press/v202/li23ap.html)] [[Code](https://github.com/yxli2123/LoSparse)]
 - [2023] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot, ICML [[Paper](https://arxiv.org/abs/2301.00774)] [[Code](https://github.com/IST-DASLab/sparsegpt)]
 - [2020] Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.html)] [[Code](https://github.com/ofsoundof/group_sparsity)]
-- [2017] Channel Pruning for Accelerating Very Deep Neural Networks, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html)]
 
 
 
@@ -77,6 +76,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 ### Fine-Tuning
 
 - [2024] Adaptive Principal Components Allocation with the l2,g-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models, arXiv [[Paper](https://arxiv.org/abs/2412.08592)] [[Code](https://github.com/jzheng20/Course_projects.git)]
+- [2024] PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2404.02948)] 
 - [2024] A Study of Optimizations for Fine-tuning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2406.02290)] 
 - [2024] Sparse Matrix in Large Language Model Fine-tuning, arXiv [[Paper](https://arxiv.org/pdf/2405.15525)] 
 - [2024] GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection, arXiv [[Paper](https://arxiv.org/abs/2403.03507)] 
