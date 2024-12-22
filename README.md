@@ -14,7 +14,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 <a name="Surveys" />
 
-### Surveys
+## Surveys
 
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
 - [2024] Prompt Compression for Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/abs/2410.12388)]
@@ -31,7 +31,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
  
 <a name="Pruning" />
 
-### Pruning
+## Pruning
 
 - [2024] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, arXiv [[Paper](https://arxiv.org/abs/2409.18850)]  [[Code](https://github.com/usamec/double_sparse)]
 - [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Code](https://github.com/fmfi-compbio/admm-pruning)]
@@ -49,7 +49,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 <a name="Quantization" />
 
-### Quantization
+## Quantization
 
 - [2024] OneBit: Towards Extremely Low-bit Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.11295)] 
 - [2024] I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2405.17849)] 
@@ -73,7 +73,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 <a name="Fine-Tuning" />
 
-### Fine-Tuning
+## Fine-Tuning
 
 - [2024] Adaptive Principal Components Allocation with the L2,g-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models, arXiv [[Paper](https://arxiv.org/abs/2412.08592)] [[Code](https://github.com/jzheng20/Course_projects.git)]
 - [2024] PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2404.02948)] 
@@ -103,10 +103,10 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 <a name="Applications" />
 
-### Applications
+## Applications
 
 
-#### Mamba
+### Mamba
 - [2024] A Survey of Mamba, arXiv [[Paper](https://arxiv.org/abs/2408.01129)]
 - [2024] Vision Mamba: A Comprehensive Survey and Taxonomy, arXiv [[Paper](https://arxiv.org/abs/2405.04404)]
 - [2024] U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation, arXiv [[Paper](https://arxiv.org/abs/2401.04722)]
@@ -118,14 +118,16 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 
 
-#### Embodied Intelligence
+### Embodied Intelligence
 
 - [2024] OpenVLA: An Open-Source Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)]
 
 
+
+
 <a name="Resources" />
 
-### Resources
+## Resources
 
 - Chinese LLM [[Link](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)]
 - LLM Action [[Link](https://github.com/liguodongiot/llm-action)]
