@@ -87,6 +87,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [2024] MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter, ACL [[Paper](https://arxiv.org/html/2406.04984v1)]
 - [2024] LoRA Meets Dropout under a Unified Framework, arXiv [[Paper](https://arxiv.org/abs/2403.00812)]
 - [2024] LoRA+: Efficient Low Rank Adaptation of Large Models, arXiv [[Paper](https://arxiv.org/abs/2402.12354)]
+- [2023] AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning, ICLR  [[Paper](https://arxiv.org/abs/2303.10512)]
 - [2023] Visual Instruction Tuning, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html)]
 - [2023] QLoRA: Efficient Finetuning of Quantized LLMs, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract-Conference.html)]
 - [2023] LoRA-FA: Memory-efficient Low-rank Adaptation for Large Language Models Fine-tuning, arXiv [[Paper](https://arxiv.org/abs/2308.03303)]
