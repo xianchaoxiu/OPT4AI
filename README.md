@@ -15,6 +15,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 <a name="Surveys" />
 
 ### Surveys
+
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
 - [2024] Prompt Compression for LargeLanguage Models: A Survey, arXiv [[Paper](https://arxiv.org/abs/2410.12388)]
 - [2024] Efficient Large Language Models: A Survey, TMLR [[Paper](https://arxiv.org/abs/2312.03863)] [[Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
@@ -106,6 +107,11 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 #### Mamba
 - [2024] A Survey of Mamba, arXiv [[Paper](https://arxiv.org/abs/2408.01129)]
+- [2024] Vision Mamba: A Comprehensive Survey and Taxonomy, arXiv [[Paper](https://arxiv.org/abs/2405.04404)]
+- [2024] U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation, arXiv [[Paper](https://arxiv.org/abs/2401.04722)]
+- [2024] VM-UNet: Vision Mamba UNet for Medical Image Segmentation, arXiv [[Paper](https://arxiv.org/abs/2402.02491)]
+- [2024] Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation, arXiv [[Paper](https://arxiv.org/abs/2402.05079)]
+- [2024] A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond, arXiv [[Paper](https://arxiv.org/abs/2410.02362)]
 - [2024] Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, arXiv [[Paper](https://arxiv.org/abs/2401.09417)]
 - [2023] Mamba: Linear-Time Sequence Modeling with Selective State Spaces, arXiv [[Paper](https://arxiv.org/abs/2312.00752)] 
 
