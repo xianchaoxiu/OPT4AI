@@ -109,6 +109,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 ### Mamba
 - [2024] A Survey of Mamba, arXiv [[Paper](https://arxiv.org/abs/2408.01129)]
 - [2024] Vision Mamba: A Comprehensive Survey and Taxonomy, arXiv [[Paper](https://arxiv.org/abs/2405.04404)]
+- [2024] FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba, arXiv [[Paper](https://arxiv.org/abs/2404.09498)] [[Code](https://github.com/millieXie/FusionMamba)]
 - [2024] U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation, arXiv [[Paper](https://arxiv.org/abs/2401.04722)]
 - [2024] VM-UNet: Vision Mamba UNet for Medical Image Segmentation, arXiv [[Paper](https://arxiv.org/abs/2402.02491)]
 - [2024] Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation, arXiv [[Paper](https://arxiv.org/abs/2402.05079)]
