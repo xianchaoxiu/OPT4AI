@@ -129,7 +129,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 <a name="Resources" />
 
 ## Resources
-
+- Large Language Model in Action [[Link](https://wangwei1237.github.io/LLM_in_Action/)]
 - Chinese LLM [[Link](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)]
 - LLM Action [[Link](https://github.com/liguodongiot/llm-action)]
 - Efficient LLMs [[Link](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
