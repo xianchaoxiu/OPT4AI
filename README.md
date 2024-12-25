@@ -136,3 +136,5 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - LLM Prune [[Link](https://github.com/pprp/Awesome-LLM-Prune)]
 - Vision Mamba Models [[Link](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)]
 - Transformers [[Link](https://arxiv.org/abs/2406.09246)]
+- GenAI Agents [[Link](https://github.com/NirDiamant/GenAI_Agents)]
+
