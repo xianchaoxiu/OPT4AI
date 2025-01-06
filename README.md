@@ -4,7 +4,7 @@ I currently focus on compression and optimization for large language models (OPT
 - [Surveys](#Surveys)
 - [Pruning](#Pruning)
 - [Quantization](#Quantization)
-- [Knowledge Distillation](#Knowledge_Distillation)
+- [Binarization](#Binarization)
 - [Fine-Tuning](#Fine-Tuning)
 - [Resources](#Resources)
     
@@ -16,7 +16,6 @@ I currently focus on compression and optimization for large language models (OPT
 
 ## Surveys
 - [2025] Low-Rank Adaptation for Foundation Models: A Comprehensive Review, arXiv [[Paper](https://arxiv.org/pdf/2501.00365)]
-- [2024] A Survey on Knowledge Distillation of Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2402.13116)]
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
 - [2024] Prompt Compression for Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/abs/2410.12388)]
 - [2024] Efficient Large Language Models: A Survey, TMLR [[Paper](https://arxiv.org/abs/2312.03863)] [[Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
@@ -26,9 +25,8 @@ I currently focus on compression and optimization for large language models (OPT
 - [2024] Small Language Models: Survey, Measurements, and Insights, arXiv [[Paper](https://arxiv.org/abs/2409.15790)]  [[Code](https://github.com/UbiquitousLearning/SLM_Survey)]
 - [2023] A Survey on Multimodal Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2306.13549)]    
 - [2022] Compression of Deep Learning Models for Text: A Survey, ACM TKDD [[Paper](https://dl.acm.org/doi/full/10.1145/3487045)]
-
-
-
+- [2020] Optimization for deep learning: an overview
+- [2020] Binary Neural Networks: A Survey, PR  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856)]
  
 <a name="Pruning" />
 
@@ -56,6 +54,7 @@ I currently focus on compression and optimization for large language models (OPT
 - [2024] I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2405.17849)] 
 - [2024] Evaluating Quantized Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.18158)]
 - [2024] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, arXiv [[Paper](https://arxiv.org/abs/2402.17764)]
+- [2023] Post-training Quantization for Neural Networks with Provable Guarantees, SIMODS [[Paper](https://epubs.siam.org/doi/abs/10.1137/22M1511709)]
 - [2023] Training and inference of large language models using 8-bit floating point, arXiv [[Paper](https://arxiv.org/abs/2309.17224)]
 - [2023] BitNet: Scaling 1-bit Transformers for Large Language Models, arXiv[[Paper](https://arxiv.org/abs/2310.11453)]
 - [2023] LLM-QAT: Data-Free Quantization Aware Training for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2305.17888)] [[Code](https://github.com/facebookresearch/LLM-QAThttps://github.com/facebookresearch/LLM-QAT)]
@@ -73,10 +72,22 @@ I currently focus on compression and optimization for large language models (OPT
 
 
 
-<a name="Knowledge_Distillation" />
+<a name="Binarization" />
 
-## Knowledge Distillation
-- [2024] MiniLLM: Knowledge Distillation of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2306.08543)]
+## Binarization
+
+- [2015] BinaryConnect: Training Deep Neural Networks with Binary Weights During Propagations, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/3e15cc11f979ed25912dff5b0669f2cd-Paper.pdf)]
+- [2018] Regularized binary network training, arXiv [[Paper](https://arxiv.org/abs/1812.11800)]
+- [2018] Enhancing the performance of 1-bit CNNs with improved  representational capability and advanced training algorithm, ECCV [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/zechun_liu_Bi-Real_Net_Enhancing_ECCV_2018_paper.pdf)]
+- [2018] Circulant binary convolutional networks: Enhancing the performance of 1-bit dcnns with circulant back propagation, CVPR [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Circulant_Binary_Convolutional_Networks_Enhancing_the_Performance_of_1-Bit_DCNNs_CVPR_2019_paper.html)]
+- [2020] Rotated Binary Neural Network, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2020/hash/53c5b2affa12eed84dfec9bfd83550b1-Abstract.html)]
+- [2017] How to Train a Compact Binary Neural Network with High Accuracy? AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10862)]
+- [2021] Learning Frequency Domain Approximation for Binary Neural Networks, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2021/hash/d645920e395fedad7bbbed0eca3fe2e0-Abstract.html)]
+- [2021] Layer-Wise Searching for 1-Bit Detectors, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Layer-Wise_Searching_for_1-Bit_Detectors_CVPR_2021_paper.html)]
+- [2022] Structured Binary Neural Networks for Image Recognition, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-022-01638-0)]
+- [2022] Data-adaptive binary neural networks for efficient object detection and recognition, PRL[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865521004438)]
+
+
 
 
 
