@@ -4,7 +4,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [Surveys](#Surveys)
 - [Pruning](#Pruning)
 - [Quantization](#Quantization)
-- [Knowledge Distillation](#Knowledge Distillation)
+- [Knowledge Distillation](#Knowledge_Distillation)
 - [Fine-Tuning](#Fine-Tuning)
 - [Resources](#Resources)
     
@@ -72,7 +72,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 
 
-<a name="Knowledge Distillation" />
+<a name="Knowledge_Distillation" />
 
 ## Knowledge Distillation
 
