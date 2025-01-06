@@ -5,7 +5,6 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [Pruning](#Pruning)
 - [Quantization](#Quantization)
 - [Fine-Tuning](#Fine-Tuning)
-- [Applications](#Applications)
 - [Resources](#Resources)
     
 <strong> Last Update: 2024/12/23 </strong>
@@ -99,29 +98,6 @@ I currently focus on optimization for large language models (OPT4LLM) including
 - [2023] QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models, arXiv[[Paper](https://arxiv.org/abs/2309.14717 )] [[Code](https://github.com/yuhuixu1993/qa-lora)]
 - [2023] QLoRA: Efficient Finetuning of Quantized LLMs, NeurIPS [[Paper](https://arxiv.org/abs/2305.14314)] [[Code](https://github.com/artidoro/qlora)] 
 - [2022] LoRA: Low-Rank Adaptation of Large Language Models, ICLR [[Paper](https://openreview.net/forum?id=nZeVKeeFYf9)] [[Code](https://github.com/microsoft/LoRA)]
-
-
-<a name="Applications" />
-
-## Applications
-
-
-### Mamba
-- [2024] A Survey of Mamba, arXiv [[Paper](https://arxiv.org/abs/2408.01129)]
-- [2024] Vision Mamba: A Comprehensive Survey and Taxonomy, arXiv [[Paper](https://arxiv.org/abs/2405.04404)]
-- [2024] FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba, arXiv [[Paper](https://arxiv.org/abs/2404.09498)] [[Code](https://github.com/millieXie/FusionMamba)]
-- [2024] U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation, arXiv [[Paper](https://arxiv.org/abs/2401.04722)]
-- [2024] VM-UNet: Vision Mamba UNet for Medical Image Segmentation, arXiv [[Paper](https://arxiv.org/abs/2402.02491)]
-- [2024] Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation, arXiv [[Paper](https://arxiv.org/abs/2402.05079)]
-- [2024] A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond, arXiv [[Paper](https://arxiv.org/abs/2410.02362)]
-- [2024] Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, arXiv [[Paper](https://arxiv.org/abs/2401.09417)]
-- [2023] Mamba: Linear-Time Sequence Modeling with Selective State Spaces, arXiv [[Paper](https://arxiv.org/abs/2312.00752)] 
-
-
-
-### Embodied Intelligence
-
-- [2024] OpenVLA: An Open-Source Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)]
 
 
 
