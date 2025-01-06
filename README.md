@@ -1,12 +1,12 @@
 # Optimization for Large Language Models (OPT4LLM)
 
-I currently focus on optimization for large language models (OPT4LLM) including
-- [Surveys (综述)](#Surveys)
-- [Pruning (剪枝)](#Pruning)
-- [Quantization (量化)](#Quantization)
-- [Knowledge Distillation (知识蒸馏)](#Knowledge_Distillation)
+I currently focus on compression and optimization for large language models (OPT4LLM) including
+- [Surveys](#Surveys)
+- [Pruning](#Pruning)
+- [Quantization](#Quantization)
+- [Knowledge Distillation)](#Knowledge_Distillation)
 - [Fine-Tuning](#Fine-Tuning)
-- [Resources (资源)](#Resources)
+- [Resources](#Resources)
     
 <strong> Last Update: 2024/12/23 </strong>
 
@@ -14,8 +14,8 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 <a name="Surveys" />
 
-## Surveys (综述)
-- [2025]  Low-Rank Adaptation for Foundation Models: A Comprehensive Review, arXiv [[Paper](https://arxiv.org/pdf/2501.00365)] 
+## Surveys
+- [2025] Low-Rank Adaptation for Foundation Models: A Comprehensive Review, arXiv [[Paper](https://arxiv.org/pdf/2501.00365)] 
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
 - [2024] Prompt Compression for Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/abs/2410.12388)]
 - [2024] Efficient Large Language Models: A Survey, TMLR [[Paper](https://arxiv.org/abs/2312.03863)] [[Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
@@ -31,7 +31,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
  
 <a name="Pruning" />
 
-## Pruning (剪枝)
+## Pruning
 
 - [2024] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, arXiv [[Paper](https://arxiv.org/abs/2409.18850)]  [[Code](https://github.com/usamec/double_sparse)]
 - [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Code](https://github.com/fmfi-compbio/admm-pruning)]
@@ -49,7 +49,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 <a name="Quantization" />
 
-## Quantization (量化)
+## Quantization 
 
 - [2024] OneBit: Towards Extremely Low-bit Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.11295)] 
 - [2024] I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2405.17849)] 
@@ -74,7 +74,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 <a name="Knowledge_Distillation" />
 
-## Knowledge Distillation (知识蒸馏)
+## Knowledge Distillation
 
 
 
@@ -114,7 +114,7 @@ I currently focus on optimization for large language models (OPT4LLM) including
 
 <a name="Resources" />
 
-## Resources (资源)
+## Resources
 - Large Language Model in Action [[Link](https://wangwei1237.github.io/LLM_in_Action/)]
 - Chinese LLM [[Link](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)]
 - LLM Action [[Link](https://github.com/liguodongiot/llm-action)]
