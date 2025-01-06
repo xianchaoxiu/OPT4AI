@@ -26,7 +26,7 @@ I currently focus on compression and optimization for large language models (OPT
 - [2024] Small Language Models: Survey, Measurements, and Insights, arXiv [[Paper](https://arxiv.org/abs/2409.15790)]  [[Code](https://github.com/UbiquitousLearning/SLM_Survey)]
 - [2023] A Survey on Multimodal Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2306.13549)]    
 - [2022] Compression of Deep Learning Models for Text: A Survey, ACM TKDD [[Paper](https://dl.acm.org/doi/full/10.1145/3487045)]
-- [2020] Optimization for deep learning: an overview
+- [2020] Optimization for Deep Learning: An Overview, JORC [[Paper](https://link.springer.com/article/10.1007/s40305-020-00309-6)]
 - [2020] Binary Neural Networks: A Survey, PR  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856)]
  
 <a name="Pruning" />
