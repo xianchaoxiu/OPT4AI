@@ -2,7 +2,7 @@
 
 I currently focus on optimization for large language models (OPT4LLM) including
 - [Surveys](#Surveys)
-- [Pruning](#Pruning)
+- [Pruning(剪枝)](#Pruning)
 - [Quantization](#Quantization)
 - [Knowledge Distillation](#Knowledge_Distillation)
 - [Fine-Tuning](#Fine-Tuning)
