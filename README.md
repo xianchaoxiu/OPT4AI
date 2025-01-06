@@ -16,6 +16,7 @@ I currently focus on compression and optimization for large language models (OPT
 
 ## Surveys
 - [2025] Low-Rank Adaptation for Foundation Models: A Comprehensive Review, arXiv [[Paper](https://arxiv.org/pdf/2501.00365)]
+- [2024] A Study of Optimizations for Fine-tuning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2406.02290)] 
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
 - [2024] Prompt Compression for Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/abs/2410.12388)]
 - [2024] Efficient Large Language Models: A Survey, TMLR [[Paper](https://arxiv.org/abs/2312.03863)] [[Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
@@ -76,19 +77,17 @@ I currently focus on compression and optimization for large language models (OPT
 
 ## Binarization
 
-- [2015] BinaryConnect: Training Deep Neural Networks with Binary Weights During Propagations, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/3e15cc11f979ed25912dff5b0669f2cd-Paper.pdf)]
-- [2018] Regularized binary network training, arXiv [[Paper](https://arxiv.org/abs/1812.11800)]
-- [2018] Enhancing the performance of 1-bit CNNs with improved  representational capability and advanced training algorithm, ECCV [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/zechun_liu_Bi-Real_Net_Enhancing_ECCV_2018_paper.pdf)]
-- [2018] Circulant binary convolutional networks: Enhancing the performance of 1-bit dcnns with circulant back propagation, CVPR [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Circulant_Binary_Convolutional_Networks_Enhancing_the_Performance_of_1-Bit_DCNNs_CVPR_2019_paper.html)]
-- [2020] Rotated Binary Neural Network, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2020/hash/53c5b2affa12eed84dfec9bfd83550b1-Abstract.html)]
-- [2017] How to Train a Compact Binary Neural Network with High Accuracy? AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10862)]
+- [2024] Scalable Binary Neural Network Applications in Oblivious Inference, ACM TECS [[Paper](https://dl.acm.org/doi/full/10.1145/3607192)]
+- [2022] Structured Binary Neural Networks for Image Recognition, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-022-01638-0)]
+- [2022] Data-Adaptive Binary Neural Networks for Efficient Object Detection and Recognition, PRL[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865521004438)]
 - [2021] Learning Frequency Domain Approximation for Binary Neural Networks, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2021/hash/d645920e395fedad7bbbed0eca3fe2e0-Abstract.html)]
 - [2021] Layer-Wise Searching for 1-Bit Detectors, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Layer-Wise_Searching_for_1-Bit_Detectors_CVPR_2021_paper.html)]
-- [2022] Structured Binary Neural Networks for Image Recognition, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-022-01638-0)]
-- [2022] Data-adaptive binary neural networks for efficient object detection and recognition, PRL[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865521004438)]
-
-
-
+- [2020] Rotated Binary Neural Network, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2020/hash/53c5b2affa12eed84dfec9bfd83550b1-Abstract.html)]
+- [2018] Regularized Binary Network Training, arXiv [[Paper](https://arxiv.org/abs/1812.11800)]
+- [2018] Enhancing the Performance of 1-bit CNNs with Improved Representational Capability and Advanced Training Algorithm, ECCV [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/zechun_liu_Bi-Real_Net_Enhancing_ECCV_2018_paper.pdf)]
+- [2018] Circulant Binary Convolutional Networks: Enhancing the Performance of 1-bit DCNNs with Circulant Back Propagation, CVPR [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Circulant_Binary_Convolutional_Networks_Enhancing_the_Performance_of_1-Bit_DCNNs_CVPR_2019_paper.html)]
+- [2017] How to Train a Compact Binary Neural Network with High Accuracy? AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10862)]
+- [2015] BinaryConnect: Training Deep Neural Networks with Binary Weights During Propagations, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/3e15cc11f979ed25912dff5b0669f2cd-Paper.pdf)]
 
 
 
@@ -98,7 +97,6 @@ I currently focus on compression and optimization for large language models (OPT
 
 - [2024] Adaptive Principal Components Allocation with the L2,g-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models, arXiv [[Paper](https://arxiv.org/abs/2412.08592)] [[Code](https://github.com/jzheng20/Course_projects.git)]
 - [2024] PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2404.02948)] 
-- [2024] A Study of Optimizations for Fine-tuning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2406.02290)] 
 - [2024] Sparse Matrix in Large Language Model Fine-tuning, arXiv [[Paper](https://arxiv.org/pdf/2405.15525)] 
 - [2024] GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection, arXiv [[Paper](https://arxiv.org/abs/2403.03507)] 
 - [2024] ReFT: Representation Finetuning for Language Models, arXiv[[Paper](https://arxiv.org/abs/2404.03592)] 
