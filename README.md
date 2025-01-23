@@ -8,7 +8,7 @@ I currently focus on compression and optimization for large language models (OPT
 - [Fine-Tuning](#Fine-Tuning)
 - [Resources](#Resources)
     
-<strong> Last Update: 2024/12/23 </strong>
+<strong> Last Update: 2025/01/23 </strong>
 
 
 
