@@ -1,6 +1,7 @@
-# Optimization for Large Language Models (OPT4LLM)
+# Optimization for Artificial Intelligence (OPT4AI)
 
-I currently focus on optimization for large language models (OPT4LLM) including
+I currently focus on optimization for artificial intelligence (OPT4AI), especially large language models, including
+
 - [Surveys](#Surveys)
 - [Pruning](#Pruning)
 - [Quantization](#Quantization)
