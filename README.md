@@ -1,6 +1,6 @@
 # Optimization for Large Language Models (OPT4LLM)
 
-I currently focus on compression and optimization for large language models (OPT4LLM) including
+I currently focus on optimization for large language models (OPT4LLM) including
 - [Surveys](#Surveys)
 - [Pruning](#Pruning)
 - [Quantization](#Quantization)
