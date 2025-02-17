@@ -16,6 +16,7 @@ I currently focus on optimization for artificial intelligence (OPT4AI), especial
 <a name="Surveys" />
 
 ## Surveys
+- [2025] Logical Reasoning in Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/abs/2502.09100)]
 - [2025] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG, arXiv [[Paper](https://arxiv.org/abs/2501.09136)]
 - [2025] Continual Learning With KnowledgeDistillation: A Survey, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/document/10721446)]
 - [2025] Low-Rank Adaptation for Foundation Models: A Comprehensive Review, arXiv [[Paper](https://arxiv.org/pdf/2501.00365)]
